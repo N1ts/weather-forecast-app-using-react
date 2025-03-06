@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      This is weather forcast app
+      This is weather forcast app.
     </>
   )
 }
